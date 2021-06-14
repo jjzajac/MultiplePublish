@@ -1,6 +1,6 @@
 # MultiplePublish
 
-MultiplePublish is npm script that allows publishing to multiple registries.
+MultiplePublish is npm script that allows publishing to multiple package registries.
 
 ## Supported Registry
 
